@@ -8,7 +8,7 @@ I decided to see what I could achieve in Rust and see what sort of realistic per
 
 Within the kvr-cache folder, execute the following command:
 
-run cargo build
+cargo build
 
 ## Run
 
