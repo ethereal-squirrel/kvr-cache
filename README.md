@@ -25,3 +25,5 @@ kvr-cache 127.0.0.1:7000
 ## Performance tests
 
 Testing locally; with 25 connections and 12 workers - retrieving a simple value allows for roughly 50,000 requests per second.
+
+*This performance test was unoptimised, on a local machine.*
