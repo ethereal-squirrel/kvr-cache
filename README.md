@@ -16,6 +16,9 @@ kvr-cache 127.0.0.1:7000
 
 *(On Windows, this will be kvr-cache.exe)*
 
+## Next steps
+* Cache invalidation (manual / time based)
+
 ## Plans for the future
 
 * Support for direct TCP connections.
